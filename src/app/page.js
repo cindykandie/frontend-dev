@@ -4,13 +4,14 @@ import MainPage from "@/pages/main";
 import "./globals.css"
 import Footer from "@/components/footer";
 import Projects from "@/pages/projects";
+import About from "@/pages/about";
 
 export default function Home() {
   return (
     <main className="">
       <Banner />
       <Navbar />
-      <Projects />
+      <About />
       <Footer /> 
     </main>
   )
