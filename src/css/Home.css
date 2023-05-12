@@ -1,18 +1,9 @@
-:root {
-    --black-color: #050609;
-    --white-color: #FCFCFC;
-    --yellow-color: #f3c353;
-    --purple-color: #a24da7;
-    --blue-color: #03536e;
-    --maroon-color: #750D25;
-    --pink-color: #f77e7e;
-   }
-   @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;1,400&display=swap');
 :root{
     --pinkColor: #f77e7e;
     --maroonColor: #911d2e;
     --yellowColor: #f3c353;
-    --blueColor: #7DCFFE;
+    --blueColor: #03536e;
     --grayColor: #F5F5F5;
     --purpleColor: #a24da7;
     --blackColor: #231F20;
@@ -45,11 +36,18 @@
    }
    
    /* Page css */
-   .ck-wrapper{
+   .c-wrapper{
+    width: 350px;
+    height: auto;
+    border-radius: 5px;
+    margin: 10px auto;
+    position: relative;
+  }
+   .k-wrapper{
      width: 350px;
      height: 500px;
      border-radius: 5px;
-     margin: 5px auto;
+     margin: 10px auto;
      position: relative;
    }
    .segment{
@@ -85,18 +83,18 @@
    .segment_four{
      top: 170px;
      border-radius: 0 100px 100px 0;
-     background-color: var(--blue-color);
+     background-color: var(--blueColor);
    }
    .k1{
      top: 250px;
      left: 150px;
-     width: 40px;
-     height: 200px;
+     width: 50px;
+     height: 210px;
      border-radius: 100px 100px;
    }
    .k2{
      top: 260px;
-     left: 200px;
+     left: 210px;
      width: 40px;
      height: 120px;
      border-radius: 100px 100px;
@@ -106,16 +104,18 @@
    }
    .k3{
      top: 330px;
-     left: 190px;
-     width: 80px;
-     height: 33px;
+     left: 200px;
+     width: 90px;
+     height: 35px;
      border-radius: 0 80% 0 0;
+     background-color: var(--blueColor);
+
    }
    .k4{
      top: 350px;
-     left: 230px;
-     width: 40px;
-     height: 100px;
+     left: 240px;
+     width: 50px;
+     height: 110px;
      border-radius: 100% 80% 100px 100px;
      z-index: -1;
    
