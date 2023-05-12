@@ -2,16 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;1,400&display=swap');
 :root{
     --pinkColor: #f77e7e;
     --maroonColor: #911d2e;
     --yellowColor: #f3c353;
-    --blueColor: #7DCFFE;
+    --blueColor: #03536e;
     --grayColor: #F5F5F5;
     --purpleColor: #a24da7;
     --blackColor: #231F20;
     --whiteColor: #FFFBFB;
+    --fontFamily: 'Jost', sans-serif;
 }
 body{
-    background-color: var(--maroonColor);
+    background-color: var(--grayColor);
 }

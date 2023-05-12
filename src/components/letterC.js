@@ -2,7 +2,7 @@ import '../css/Home.css'
 
 export default function LetterC() {
   return (
-      <section className="ck-wrapper">
+      <section className="c-wrapper">
         <div className="segment segment_one">
         </div>
         <div className="segment segment_two">
