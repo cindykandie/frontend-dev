@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;1,400&display=swap');
+:root{
+    --pinkColor: #f77e7e;
+    --maroonColor: #911d2e;
+    --yellowColor: #f3c353;
+    --blueColor: #7DCFFE;
+    --grayColor: #F5F5F5;
+    --purpleColor: #a24da7;
+    --blackColor: #231F20;
+    --whiteColor: #FFFBFB;
+    --fontFamily: 'Jost', sans-serif;
+}
+.custom-nav{
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--fontFamily);
+}
+.custom-nav-ul{
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+}
+.custom-nav-li{
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    padding: 1em;
+    font-size: 0.75rem;
+}
+.custom-projects span{
+    background-color: var(--pinkColor);
+}
+.custom-about span{
+    background-color: var(--yellowColor);
+}
+.custom-blog span{
+    background-color: var(--blueColor);
+}

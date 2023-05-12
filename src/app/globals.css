@@ -2,3 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+:root{
+    --pinkColor: #f77e7e;
+    --maroonColor: #911d2e;
+    --yellowColor: #f3c353;
+    --blueColor: #7DCFFE;
+    --grayColor: #F5F5F5;
+    --purpleColor: #a24da7;
+    --blackColor: #231F20;
+    --whiteColor: #FFFBFB;
+}
+body{
+    background-color: var(--maroonColor);
+}
