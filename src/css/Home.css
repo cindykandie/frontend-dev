@@ -34,7 +34,12 @@
      color: inherit;
      text-decoration: none;
    }
-   
+   .logo-div{
+    position: absolute;
+    width: 3rem;
+    top: 3rem;
+    left: 1.5rem;
+   }
    /* Page css */
    .c-wrapper{
     width: 350px;

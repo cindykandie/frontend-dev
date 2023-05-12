@@ -1,16 +1,27 @@
 import '../css/Home.css'
+import Link from 'next/link'
+
 
 export default function LetterC() {
   return (
       <section className="c-wrapper">
-        <div className="segment segment_one">
+          <Link href="/projects">
+          <div className="segment segment_one">
         </div>
-        <div className="segment segment_two">
+          </Link>
+          <Link href='/about'>
+          <div className="segment segment_two">
         </div>
-        <div className="segment segment_three">
+          </Link>
+          <Link href='/about'>
+          <div className="segment segment_three">
         </div>
-        <div className="segment segment_four">
+          </Link>
+          <Link href='https://cindykandie.hashnode.dev/'>
+            <div className="segment segment_four">
         </div>
+          </Link>
+        
       </section>
   );
 }

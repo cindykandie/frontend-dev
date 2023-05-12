@@ -1,8 +1,9 @@
-import Banner from "@/components/banner";
+import Layout from "@/app/layout";
 import '@/css/Projects.css';
 
 export default function Projects() {
   return (
+    <Layout>
     <div className="flex items-center justify-center">
     <section className="flex flex-col items-center mx-5 my-5">
       <h1 className="mt-8 text-4xl font-bold">My Projects</h1>
@@ -81,5 +82,6 @@ export default function Projects() {
       </div>
     </section>
     </div>
+    </Layout>
   )
 }
