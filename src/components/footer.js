@@ -5,10 +5,10 @@ export default function Footer() {
       <footer className="">
        <h2>Get My CV <span><img src='/assets/icons/download.svg' /></span> </h2>
        <div>
-            <img src='/assets/icons/github.svg' alt=''/>
-            <img src='/assets/icons/linkedin.svg' alt=''/>
-            <img src='/assets/icons/mail.svg' alt=''/>
-            <img src='/assets/icons/phone-outgoing.svg' alt=''/>
+            <img src='/assets/icons/github.svg' alt='' title='GitHub'/>
+            <img src='/assets/icons/linkedin.svg' alt='' title='LinkedIn'/>
+            <img src='/assets/icons/mail.svg' alt='' title='Email'/>
+            <img src='/assets/icons/phone-outgoing.svg' alt='' title='Call Me'/>
        </div>
       </footer>
   );
