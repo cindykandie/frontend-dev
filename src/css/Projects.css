@@ -17,6 +17,9 @@ body{
     display: flex;
     
 }
+.project-wrapper{
+    margin: 10px 20px 5px 10px;
+}
 section{
     width: 100vw;
     max-width: 50rem;

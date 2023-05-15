@@ -40,6 +40,14 @@
     top: 3rem;
     left: 1.5rem;
    }
+   @media screen and (max-width: 800px) {
+    .logo-div{
+      position: absolute;
+      width: 2rem;
+      top: 20px;
+      left: 5px;
+     }
+  }
    .logo-div img:hover{
     box-shadow: inset 0px -10px 20px -10px var(--purpleColor);
     background-color: none;
