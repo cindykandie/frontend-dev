@@ -23,8 +23,8 @@ export default function Projects() {
                   <h2 className="text-xl font-bold mb-2">{project.title}</h2>
                   <p className="text-gray-700 text-base mb-4">{project.description}</p>
                   <div className="flex btn-container">
-                    <a href={project.liveSiteLink} ><button>Live Site</button></a>
-                    <a href={project.sourceCodeLink}><button>Source Code</button></a>
+                    <a href={project.liveSiteLink} target='blank' ><button>Live Site</button></a>
+                    <a href={project.sourceCodeLink} target='blank'><button>Source Code</button></a>
                 </div>
                 </div>
               </div>
