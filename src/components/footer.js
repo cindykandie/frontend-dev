@@ -11,7 +11,7 @@ export default function Footer() {
           <a href='https://linkedin.com/in/cindykandie' target='blank'>
           <img src='/assets/icons/linkedin.svg' alt='my linkedin profile' title='LinkedIn'/>
           </a>
-          <a href='mailto:email@example.com' target='blank'>
+          <a href='mailto:cindyjk@gmail.com' target='blank'>
           <img src='/assets/icons/mail.svg' alt='email address' title='Email'/>
           </a>
           <a href='tel:0711392996' target='blank'>
