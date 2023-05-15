@@ -21,8 +21,8 @@ const Navbar = () => {
               <span className="block w-5 h-3"></span> Blog
               </li>
         </Link>
-        <Link href="/about">
-              <li className='flex w-5 custom-contact' title='Contact'>
+        <Link href="#contact">
+              <li className='flex w-5 custom-contact' title='Contact' >
                   <img src='/assets/icons/contact.png' alt=''/>
               </li>
         </Link>

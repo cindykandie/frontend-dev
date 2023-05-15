@@ -35,3 +35,17 @@ section{
 .custom-image{
     object-fit: contain;
 }
+.btn-container {
+    display: flex;
+    gap: 0.5rem;
+}
+.btn-container button{
+    border: 1px solid var(--blackColor);
+    border-radius: 4px;
+    width: 7.5rem;
+    padding: 2px 4px;
+}
+.btn-container button:hover{
+    color: var(--whiteColor);
+    background-color: var(--purpleColor);
+}

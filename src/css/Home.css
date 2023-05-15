@@ -40,7 +40,12 @@
     top: 3rem;
     left: 1.5rem;
    }
+   .logo-div img:hover{
+    box-shadow: inset 0px -10px 20px -10px var(--purpleColor);
+    background-color: none;
+   }
    /* Page css */
+   
    .c-wrapper{
     width: 350px;
     height: auto;
@@ -55,22 +60,48 @@
      margin: 10px auto;
      position: relative;
    }
-   .segment{
-     height: 60px;
-     width: 100px;
-     border: 1px solid inherit;
-     position: absolute;
-     left: 80px;
-     top: 30px;
-     transition: all 0.8s ease-in;
-   }
+   .segment {
+    height: 60px;
+    width: 100px;
+    border: 1px solid inherit;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: var(--pinkColor);
+    border-radius: 10px;
+    transition: top o.8s ease-in-out;
+    animation: glow 12s infinite alternate ease-in-out;
+  }
+   
+  @keyframes glow {
+    0% {
+      opacity: 1;
+      box-shadow: 0 0 3px 0 var(--maroonColor);
+    }
+    40% {
+      opacity: 0.8;
+      box-shadow: 0 0 2px 3px var(--purpleColor);
+    }
+    50% {
+      opacity: 1;
+      box-shadow: 0 0 2px 2px var(--purpleColor);
+    }
+    100% {
+      opacity: 1;
+      box-shadow: 0 0 5px 0 var(--blackColor);
+    }
+  }
+
    .segment_one{
      border-radius: 0 100px 100px 0;
      background-color: var(--pinkColor);
+     left: 80px;
+     top: 30px;
    
    }
    .segment_two{
      left: 30px;
+     top: 30px;
      width: 50px;
      height: 70px;
      border-radius: 100px 0 0 0;
@@ -89,6 +120,7 @@
      top: 170px;
      border-radius: 0 100px 100px 0;
      background-color: var(--blueColor);
+     left: 80px;
    }
    .k1{
      top: 250px;
@@ -107,6 +139,7 @@
      transform: rotate(45deg);
      z-index: -1;
    }
+   
    .k3{
      top: 330px;
      left: 200px;
@@ -123,5 +156,4 @@
      height: 110px;
      border-radius: 100% 80% 100px 100px;
      z-index: -1;
-   
    }

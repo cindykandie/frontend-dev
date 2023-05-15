@@ -22,7 +22,8 @@ footer{
     gap: 1rem;
 }
 footer img {
-    width: 1.3rem;
+    width: 2rem;
+    padding: 5px;
 
 }
 footer h2 {
@@ -32,6 +33,14 @@ footer h2 {
     justify-content: center;
     margin-bottom: 2rem;
 
+}
+footer h2 a:hover{
+    color: var(--whiteColor);
+    text-decoration: underline;
+}
+ img:hover{
+    background-color: var(--whiteColor);
+    border-radius: 3px;
 }
 footer div{
     display: flex;

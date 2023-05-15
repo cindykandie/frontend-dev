@@ -1,0 +1,61 @@
+{
+    "sections": [
+        {
+            "name": "Currently",
+            "image": "/assets/images/work.webp",
+            "title": "Software Development",
+            "description": "As a frontend development intern, I work on various projects such as creating and designing web pages, implementing new features, and optimizing existing ones. I collaborate with the team to ensure timely delivery of projects and maintain the codebase. I continually learn and implement new technologies and frameworks to improve my skills.",
+            "buttonText": "Sneak Peek",
+            "buttonLink": "https://github.com/cindykandie"
+          },
+          {
+            "name": "Mentor",
+            "image": "/assets/images/mentor.svg",
+            "title": "FullStack Developer Trainee",
+            "description": "I am currently using React, JavaScript, HTML, and CSS to develop the front-end of web applications. I am also proficient in using popular front-end frameworks like TailwindCSS and Material-UI. Additionally, I am constantly learning and experimenting with new front-end technologies to improve my skills and stay up-to-date with industry trends by writing about it.",
+            "buttonText": "Sneak Peek",
+            "buttonLink": "https://cindykandie.hashnode.dev/"
+            },
+                {
+            "name": "Microverse BootCamp",
+            "image": "/assets/images/bootcamp.svg",
+            "title": "FullStack Developer Trainee",
+            "description": "At Microverse bootcamp, I learned and built various projects. I gained proficiency in web development technologies such as HTML, CSS, JavaScript, React, Ruby on Rails, and Git. I also developed skills in pair programming, remote collaboration, and agile development. I built several projects, including a JavaScript calculator, a social media website with Ruby on Rails, and a portfolio website with React.",
+            "buttonText": "Sneak Peek",
+            "buttonLink": "https://cindykandie.github.io/financial-conference/"
+            },
+            {
+                "name": "Freelance Work",
+                "image": "/assets/images/kamident.png",
+                "title": "Kamident Dental Clinic",
+                "description": "As a freelance web developer, I built a professional website for Kamident Dental Clinic using modern technologies such as React, Tailwind CSS, and Firebase. I also provided responsive design, user-friendly navigation, contact form, and optimized the website for search engines. This project allowed me to enhance my skills in web development and provide a valuable service to the client.",
+                "buttonText": "Sneak Peek",
+                "buttonLink": "https://dantiste.netlify.app"
+              },
+                    {
+                "name": "Bachelor's Degree",
+                "image": "/assets/images/mut.svg",
+                "title": "Software Engineering Degree",
+                "description": "In my Bachelor's degree, I gained expertise in software engineering and learned to develop robust and scalable software applications. During my time as a Google Developer Student Club lead and mentor, I honed my leadership skills and guided a team of developers in creating impactful projects. These experiences equipped me with the knowledge and skills needed to excel as a software developer.",
+                "buttonText": "Sneak Peek",
+                "buttonLink": "https://www.mut.ac.ke/"
+                },
+                {
+                    "name": "Tech Community",
+                    "image": "/assets/images/react254.png",
+                    "title": "React Developer Community Kenya",
+                    "description": "As a participant in the Kenyan tech community, I have been involved with React Devs KE, DroidconKE, GDG Nairobi, and WTM Ambassador, benefiting from mentorship and contributing to events. Through these activities, I have built my skills, expanded my network, and contributed to the growth of the tech community in Kenya.",
+                    "buttonText": "Sneak Peek",
+                    "buttonLink": "https://www.reactdevske.org/"
+                  },
+                        {
+                    "name": "Passion Project",
+                    "image": "/assets/images/consalt.png",
+                    "title": "ConSalt Platform",
+                    "description": "ConSalt is a platform that connects companies/ individuals with pre-vetted industry consultants. The platform features a directory of experienced consultants that companies/clients can search and filter through to find the right fit for their needs. ConSalt also offers a community section where professionals can connect with each other.",
+                    "buttonText": "Sneak Peek",
+                    "buttonLink": "https://cindykandie.hashnode.dev/building-a-full-web-app-consultation-platform"
+                    }
+    ]
+  }
+  

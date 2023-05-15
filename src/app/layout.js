@@ -8,14 +8,9 @@ import Logo from '@/components/homeLogo'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export const metadata = {
-  title: 'Cindy Kandie',
-  description: 'My Portolio: Get a feel of my skills',
-}
-
 export default function Layout({ children }) {
   return (
-      <div lang="en">
+      <>
         <Head>
           <link rel="icon" type="image/svg" href="assets/icons/logo.png" />
         </Head>
@@ -24,6 +19,6 @@ export default function Layout({ children }) {
         <Navbar />
           {children}
         <Footer />
-      </div >
+      </>
   )
 }

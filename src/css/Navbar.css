@@ -22,6 +22,9 @@
     gap: 1rem;
     padding: 1rem;
 }
+.custom-nav-ul span:hover{
+    box-shadow: 0 0 3px 3px var(--maroonColor);
+}
 .custom-nav-li{
     align-items: center;
     justify-content: center;
@@ -43,4 +46,10 @@
     background-color: var(--blueColor);
     border-radius: 3px;
 
+}
+a:hover{
+    text-decoration: underline;
+}
+a:active{
+    text-decoration: underline;
 }
