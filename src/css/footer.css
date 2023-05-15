@@ -8,7 +8,7 @@
     --purpleColor: #a24da7;
     --blackColor: #231F20;
     --whiteColor: #FFFBFB;
-    --fontFamily: 'Jost', sans-serif;
+    --fontFamily: 'Jost', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 footer{
     background-color: var(--blueColor);
