@@ -8,6 +8,7 @@ import Logo from '@/components/homeLogo'
 
 const inter = Inter({ subsets: ['latin'] })
 
+
 export default function Layout({ children }) {
   return (
       <>
