@@ -11,8 +11,8 @@
           {
             "name": "Mentor",
             "image": "/assets/images/mentor.svg",
-            "title": "FullStack Developer Trainee",
-            "description": "I am currently using React, JavaScript, HTML, and CSS to develop the front-end of web applications. I am also proficient in using popular front-end frameworks like TailwindCSS and Material-UI. Additionally, I am constantly learning and experimenting with new front-end technologies to improve my skills and stay up-to-date with industry trends by writing about it.",
+            "title": "Frontend Development Mentorship",
+            "description": "As a mentor in web development, particularly frontend, I provide guidance and support to beginners and students, helping them navigate the intricacies of web technologies. I offer personalized advice, share resources, and encourage hands-on learning, fostering their growth and confidence in becoming skilled frontend developers.",
             "buttonText": "Sneak Peek",
             "buttonLink": "https://cindykandie.hashnode.dev/"
             },
@@ -55,7 +55,15 @@
                     "description": "ConSalt is a platform that connects companies/ individuals with pre-vetted industry consultants. The platform features a directory of experienced consultants that companies/clients can search and filter through to find the right fit for their needs. ConSalt also offers a community section where professionals can connect with each other.",
                     "buttonText": "Sneak Peek",
                     "buttonLink": "https://cindykandie.hashnode.dev/building-a-full-web-app-consultation-platform"
-                    }
+                    },
+                    {
+                      "name": "Up-and-Coming CEO",
+                      "image": "/assets/images/ceo.svg",
+                      "title": "IntelliXar Tech Solutions",
+                      "description": "As the founder of IntelliXar, my passion for creating innovative tech solutions drives me to build and deliver cutting-edge products. With a focus on excellence and user-centric design, I collaborate with clients to develop tailored solutions that meet their unique needs, while pushing the boundaries of technology to empower businesses and individuals alike.",
+                      "buttonText": "Sneak Peek",
+                      "buttonLink": "https://cindykandie.hashnode.dev/building-a-full-web-app-consultation-platform"
+                      }
     ]
   }
   

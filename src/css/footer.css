@@ -10,6 +10,11 @@
     --whiteColor: #FFFBFB;
     --fontFamily: 'Jost', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+body{
+    position: relative;
+    margin-bottom: 150px;
+    padding-bottom: 0;
+}
 footer{
     background-color: var(--blueColor);
     font-family: var(--fontFamily);
@@ -20,7 +25,17 @@ footer{
     align-items: center;
     justify-content: center;
     gap: 1rem;
+    margin-bottom: 0;
+    
 }
+footer div{
+    display: flex;
+    gap: 3rem;
+    justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
+}
+
 footer img {
     width: 2rem;
     padding: 5px;
@@ -32,21 +47,38 @@ footer h2 {
     align-items: center;
     justify-content: center;
     margin-bottom: 2rem;
+    color: var(--grayColor);
 
+}
+footer .download-btn{
+    background-color: var(--whiteColor);
+    border-radius: 100%;
+}
+footer .download-btn:hover{
+    background-color: var(--yellowColor);
+    border-radius: 10px;
 }
 footer h2 a:hover{
     color: var(--whiteColor);
     text-decoration: underline;
-}
- img:hover{
-    background-color: var(--whiteColor);
-    border-radius: 3px;
-}
-footer div{
-    display: flex;
-    gap: 3rem;
-    justify-content: space-evenly;
-    align-items: center;
-    justify-content: center;
+    text-decoration-color: var(--yellowColor);
+    text-decoration-thickness: 3px;
 
 }
+footer .footer-socials a{
+    background-color: var(--whiteColor);
+    border-radius: 100%;
+    padding: 2px;
+    box-shadow: 1px 1px 6px var(--blackColor);
+}
+footer .footer-socials a:hover{
+    background-color: var(--yellowColor);  
+    box-shadow: 0px 0px 0px 2px var(--blackColor);
+  
+}
+footer .footer-socials a:active{
+    background-color: var(--yellowColor);
+    box-shadow: 0px 0px 0px 1px var(--blackColor);
+}
+
+
