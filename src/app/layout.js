@@ -18,8 +18,6 @@ export default function Layout({ children }) {
           <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
           <link rel="icon" type="image/svg" href="assets/icons/logo.png" />
         </Head>
-        <Logo />
-        <Banner />
         <Navbar />
           {children}
         <Footer />

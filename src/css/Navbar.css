@@ -10,11 +10,20 @@
     --whiteColor: #FFFBFB;
     --fontFamily: 'Jost', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.nav-wrapper{
+    position: fixed;
+    top: 0;
+    z-index: 3;
+    background-color: rgb(245, 245, 245,0.7);
+    
+}
 .custom-nav{
     width: 100vw;
     align-items: center;
     justify-content: center;
     font-family: var(--fontFamily);
+    border-bottom: 1px solid var(--blueColor);
+    
 }
 .custom-nav-ul{
     align-items: center;
