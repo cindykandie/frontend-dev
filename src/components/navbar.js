@@ -1,9 +1,14 @@
 import React from 'react'
 import '@/css/Navbar.css'
 import Link from 'next/link'
+import Banner from './banner'
+import Logo from './homeLogo'
 
 const Navbar = () => {
   return (
+    <div className='nav-wrapper'>
+    <Logo />
+    <Banner />
     <nav className="w-full h-20 custom-nav">
         <ul className='flex custom-nav-ul'>
         <Link href="/projects">
@@ -25,14 +30,10 @@ const Navbar = () => {
               <li className='flex w-5 custom-contact' title='Contact' >
                   <img src='/assets/icons/contact.png' alt=''/>
               </li>
-        </Link>
-            
-            
-            
-            
+        </Link> 
         </ul>
     </nav>
-    
+    </div>
   )
 }
 

@@ -16,4 +16,5 @@
 }
 body{
     background-color: var(--grayColor);
+    margin-top: 100px;
 }
