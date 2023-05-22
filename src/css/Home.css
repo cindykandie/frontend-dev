@@ -22,10 +22,7 @@
    body {
      max-width: 100vw;
      overflow-x: hidden;
-     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-   }
-   
-   body {
+     font-family: 'Jost','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
      color:var(--black-color);
      background: var(--graycolor);
    }
@@ -71,34 +68,17 @@
    .segment {
     height: 60px;
     width: 100px;
-    border: 1px solid inherit;
+    border: none;
     position: absolute;
     top: 0;
     right: 0;
     background-color: var(--pinkColor);
+    box-shadow: 0 0 0px 1px var(--purpleColor);
     border-radius: 10px;
     transition: top o.8s ease-in-out;
     animation: glow 12s infinite alternate ease-in-out;
   }
    
-  @keyframes glow {
-    0% {
-      opacity: 1;
-      box-shadow: 0 0 3px 0 var(--maroonColor);
-    }
-    40% {
-      opacity: 0.8;
-      box-shadow: 0 0 2px 3px var(--purpleColor);
-    }
-    50% {
-      opacity: 1;
-      box-shadow: 0 0 2px 2px var(--purpleColor);
-    }
-    100% {
-      opacity: 1;
-      box-shadow: 0 0 5px 0 var(--blackColor);
-    }
-  }
 
    .segment_one{
      border-radius: 0 100px 100px 0;

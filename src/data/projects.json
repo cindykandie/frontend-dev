@@ -14,7 +14,7 @@
         
         {    
             "title": "Extenders Charity Foundation",    "description": "Our project, built on Next.js, focuses on providing support to underprivileged children by visiting their homes and offering various kinds of assistance. Our aim is to improve their living conditions, health, and education, and we believe that every child deserves a chance to thrive regardless of their background.",    
-            "image": "/assets/images/extenders.png",    "sourceCodeLink": "https://github.com/Top-Notch-Graphics-IT/charity-site",    "liveSiteLink": "https://extenderz-foundation.vercel.app/"  
+            "image": "/assets/images/extenders.png",    "sourceCodeLink": "https://github.com/Top-Notch-Graphics-IT/charity-site",    "liveSiteLink": "https://extenders-foundation.vercel.app/"  
         },  
         {    
             "title": "React Devs 254",    
