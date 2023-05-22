@@ -13,7 +13,7 @@ export default function About() {
               <div className="bg-white rounded-md shadow-md flex flex-col justify-between mx-3" key={section.name}>
                 <h2 className="p-2 text-2xl font-bold">{section.name}</h2>
                 <div className="relative image-wrapper">
-                  <img className="rounded-t-lg h-72 object-cover custom-image p-1" src={section.image} alt={section.name} />
+                  <img className="rounded-t-lg h-72 object-contain custom-image p-1  w-full" src={section.image} alt={section.name} />
                 </div>
                 <div className="p-4">
                   <h2 className="text-xl font-bold mb-2">{section.title}</h2>
