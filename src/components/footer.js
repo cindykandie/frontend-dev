@@ -2,7 +2,7 @@ import '../css/footer.css'
 
 export default function Footer() {
   return (
-      <footer id='contact'>
+      <footer id='contact' className='py-6'>
        <h2> <a href="https://docs.google.com/document/d/1r4IL3Uj3DdMqtqOzuhbrY11Uyr9x-xdqkABepARthRU/edit?usp=sharing" target='blank'> View My Resume</a> <a href="/assets/CindyK_Resume.pdf" className='download-btn'><span><img src='/assets/icons/download.svg' title='Download my Resume' /></span> </a> </h2>
        <div className='footer-socials'>
           <a href='https://github.com/cindykandie' target='blank'>

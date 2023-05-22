@@ -1,4 +1,4 @@
-import Banner from '@/components/banner'
+import BtBanner from '@/components/btBanner'
 import Footer from '@/components/footer'
 import './globals.css'
 import { Inter } from 'next/font/google'
@@ -21,6 +21,7 @@ export default function Layout({ children }) {
         <Navbar />
           {children}
         <Footer />
+        <BtBanner />
       </>
   )
 }

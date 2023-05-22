@@ -2,8 +2,15 @@
     "sections": [
         {
             "name": "Currently",
+            "image": "/assets/images/job.svg",
+            "title": "Frontend Engineer",
+            "description": "My role at Drift Consult with Carmax Motokaa Ltd. involves understanding the project requirements, setting up the backend environment, and integrating it with the frontend. I work on improving security, enhancing user experience, and resolving any bugs or issues through comprehensive testing. As a fast learner, I adapt quickly and strive to deliver a high-quality product.",
+            "buttonText": "Sneak Peek",
+            "buttonLink": "https://github.com/cindykandie"
+          },
+          {"name": "Internship",
             "image": "/assets/images/work.webp",
-            "title": "Software Development",
+            "title": "Software Development Intern",
             "description": "As a frontend development intern, I work on various projects such as creating and designing web pages, implementing new features, and optimizing existing ones. I collaborate with the team to ensure timely delivery of projects and maintain the codebase. I continually learn and implement new technologies and frameworks to improve my skills.",
             "buttonText": "Sneak Peek",
             "buttonLink": "https://github.com/cindykandie"
