@@ -7,6 +7,7 @@ export default function LetterK() {
         <div className="segment segment_two k2"></div>
         <div className="segment segment_three k3"></div>
         <div className="segment segment_four k4"></div>
+        
       </section>
   );
 }

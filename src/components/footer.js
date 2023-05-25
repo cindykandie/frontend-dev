@@ -14,7 +14,7 @@ export default function Footer() {
           <a href='mailto:cindyjk6@gmail.com' target='blank'>
           <img src='/assets/icons/mail.svg' alt='email address' title='Email'/>
           </a>
-          <a href='tel:0711392996' target='blank'>
+          <a href='tel:+254711392996' target='blank'>
           <img src='/assets/icons/phone-outgoing.svg' alt='my phone number' title='Call Me'/>
           </a>
        </div>
