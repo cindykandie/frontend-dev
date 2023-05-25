@@ -71,9 +71,10 @@ footer .footer-socials a{
     padding: 2px;
     box-shadow: 1px 1px 6px var(--blackColor);
 }
-footer .footer-socials a:hover{
+footer .footer-socials a:hover, .about-linkedin img:hover{
     background-color: var(--yellowColor);  
     box-shadow: 0px 0px 0px 2px var(--blackColor);
+    border-radius: 100%;
   
 }
 footer .footer-socials a:active{

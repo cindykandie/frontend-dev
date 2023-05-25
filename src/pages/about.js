@@ -1,13 +1,14 @@
 import '@/css/Projects.css';
 import Layout from "@/app/layout";
 import data from "@/data/about.json";
+import LinkedinLogo from '@/components/linkedin';
 
 export default function About() {
   return (
     <Layout>
       <div className="flex flex-col items-center justify-center mb-8 project-wrapper">
         <section className="flex flex-col items-center justify-center">
-          <h1 className="mt-4 text-4xl font-bold">About Me</h1>
+          <h1 className="flex gap-[5rem] align-center content-center mt-4 text-4xl font-bold">About Me <span><LinkedinLogo/> </span></h1>
           <div className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-2 gap-8 mt-10 mr-5 max-w-8xl">
             {data.sections.map((section) => (
               <div className="bg-white rounded-md shadow-md flex flex-col justify-between mx-3" key={section.name}>
