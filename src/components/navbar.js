@@ -1,5 +1,6 @@
 import React from 'react'
 import '@/css/Navbar.css'
+import '@/globals.css'
 import Link from 'next/link'
 import Banner from './banner'
 import Logo from './homeLogo'

@@ -11,7 +11,7 @@
     --fontFamily: 'Jost', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 *{
-    font-family: var(--fontFamily)
+    font-family: var(--fontFamily);
 }
 .nav-wrapper{
     position: fixed;
