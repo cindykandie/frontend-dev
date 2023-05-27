@@ -1,4 +1,6 @@
 import '../css/footer.css'
+import '@/app/globals.css'
+
 
 export default function Footer() {
   return (
