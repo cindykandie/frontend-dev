@@ -16,6 +16,7 @@
      padding: 0;
      margin: 0;
      transition: all 1s ease-in;
+     font-family: var(--fontFamily)
    }
    
    html,
