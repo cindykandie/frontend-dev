@@ -10,11 +10,7 @@
     --whiteColor: #FFFBFB;
     --fontFamily: 'Jost', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-body{
-    position: relative;
-    margin-bottom: 150px;
-    padding-bottom: 0;
-}
+
 footer{
     background-color: var(--blueColor);
     font-family: var(--fontFamily);
