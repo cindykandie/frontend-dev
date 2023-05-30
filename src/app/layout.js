@@ -2,11 +2,9 @@ import BtBanner from '@/components/btBanner'
 import Footer from '@/components/footer'
 import './globals.css'
 import '@/css/Home.css'
-import { Inter } from 'next/font/google'
 import Head from 'next/head'
 import Navbar from '@/components/navbar'
 
-const inter = Inter({ subsets: ['latin'] })
 
 
 export default function Layout({ children }) {
