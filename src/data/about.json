@@ -6,7 +6,7 @@
             "title": "Frontend Engineer",
             "description": "My role at Drift Consult with Carmax Motokaa Ltd. involves understanding the project requirements, setting up the backend environment, and integrating it with the frontend. I work on improving security, enhancing user experience, and resolving any bugs or issues through comprehensive testing. As a fast learner, I adapt quickly and strive to deliver a high-quality product.",
             "buttonText": "Sneak Peek",
-            "buttonLink": "https://github.com/cindykandie"
+            "buttonLink": "https://motokaa.shop"
           },
           {"name": "Internship",
             "image": "/assets/images/work.webp",
@@ -21,7 +21,7 @@
             "title": "Frontend Development Mentorship",
             "description": "As a mentor in web development, particularly frontend, I provide guidance and support to beginners and students, helping them navigate the intricacies of web technologies. I offer personalized advice, share resources, and encourage hands-on learning, fostering their growth and confidence in becoming skilled frontend developers.",
             "buttonText": "Sneak Peek",
-            "buttonLink": "https://cindykandie.hashnode.dev/"
+            "buttonLink": "https://cindykandie.hashnode.dev/first-time-mentor-in-frontend-development-journal"
             },
                 {
             "name": "Microverse BootCamp",
@@ -53,7 +53,7 @@
                     "title": "React Developer Community Kenya",
                     "description": "As a participant in the Kenyan tech community, I have been involved with React Devs KE, DroidconKE, GDG Nairobi, and WTM Ambassador, benefiting from mentorship and contributing to events. Through these activities, I have built my skills, expanded my network, and contributed to the growth of the tech community in Kenya.",
                     "buttonText": "Sneak Peek",
-                    "buttonLink": "https://www.reactdevske.org/"
+                    "buttonLink": "https://www.rendercon.org/"
                   },
                         {
                     "name": "Passion Project",
@@ -69,8 +69,9 @@
                       "title": "IntelliXar Tech Solutions",
                       "description": "As the founder of IntelliXar, my passion for creating innovative tech solutions drives me to build and deliver cutting-edge products. With a focus on excellence and user-centric design, I collaborate with clients to develop tailored solutions that meet their unique needs, while pushing the boundaries of technology to empower businesses and individuals alike.",
                       "buttonText": "Sneak Peek",
-                      "buttonLink": "https://cindykandie.hashnode.dev/i-am-starting-a-company-how-hard-can-it-be"
+                      "buttonLink": "https://intellixar.vercel.app"
                       }
     ]
   }
+
   
