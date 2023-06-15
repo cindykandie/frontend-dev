@@ -1,6 +1,4 @@
 import '../css/footer.css'
-import '@/app/globals.css'
-import BtBanner from './btBanner';
 
 
 export default function Footer() {
