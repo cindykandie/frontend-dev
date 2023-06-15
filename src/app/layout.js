@@ -1,7 +1,6 @@
 import BtBanner from '@/components/btBanner'
 import Footer from '@/components/footer'
 import './globals.css'
-import '@/css/Home.css'
 import Head from 'next/head'
 import Navbar from '@/components/navbar'
 
