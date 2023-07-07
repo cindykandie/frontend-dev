@@ -1,20 +1,21 @@
 {
     "sections": [
-        {
+       
+          {
             "name": "Currently: FullStack Role",
+            "image": "/assets/images/kamident.png",
+            "title": "Kamident Dental Clinic",
+            "description": "As a passionate web developer, I built a professional website for Kamident Dental Clinic using React, Tailwind CSS, and Firebase. I also provided responsive design, user-friendly navigation, contact form, and optimized the website for search engines. The reach to clients online has grown exponentially-we are seeing more enggement by the day",
+            "buttonText": "Sneak Peek",
+            "buttonLink": "https://kamident.vercel.app/"
+          },
+          {
+            "name": "FullStack Role",
             "image": "/assets/images/job.svg",
             "title": "Frontend Engineer",
             "description": "My role at Drift Consult with Carmax Motokaa Ltd. involves understanding the project requirements, setting up the backend environment, and integrating it with the frontend. I work on improving security, enhancing user experience, and resolving any bugs or issues through comprehensive testing. As a fast learner, I adapt quickly and strive to deliver a high-quality product.",
             "buttonText": "Sneak Peek",
             "buttonLink": "https://motokaa.shop"
-          },
-          {
-            "name": "Frontend Role",
-            "image": "/assets/images/kamident.png",
-            "title": "Kamident Dental Clinic",
-            "description": "As a passionate web developer, I built a professional website for Kamident Dental Clinic using modern technologies such as React, Tailwind CSS, and Firebase. I also provided responsive design, user-friendly navigation, contact form, and optimized the website for search engines. This project allowed me to enhance my skills in web development and provide a valuable service to the client.",
-            "buttonText": "Sneak Peek",
-            "buttonLink": "https://kamident.vercel.app/"
           },
           {"name": "Internship",
             "image": "/assets/images/work.webp",

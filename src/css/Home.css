@@ -11,12 +11,17 @@
     --fontFamily: 'Jost', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
    
+@font-face {
+  font-family: 'JostSemiBold';
+  src: url(/fonts/Jost-SemiBold.ttf);
+}
+
    * {
      box-sizing: border-box;
      padding: 0;
      margin: 0;
      transition: all 1s ease-in;
-     font-family: var(--fontFamily);
+     font-family: 'JostSemibold';
    }
    
    html,

@@ -1,5 +1,6 @@
 import Layout from "@/app/layout";
 import '@/css/Projects.css';
+import '@/css/Home.css'
 import projects from "@/data/projects.json";
 
 export default function Projects() {
