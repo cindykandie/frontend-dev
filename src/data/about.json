@@ -1,8 +1,23 @@
 {
     "sections": [
-       
           {
-            "name": "Currently: FullStack Role",
+            "name": "Currently: Mobile Engineer",
+            "image": "/assets/images/workpay.svg",
+            "title": "WorkPay",
+            "description": "As a React Native Mobile Intern at Workpay, I collaborate with talented professionals to develop cutting-edge mobile applications using React Native technology. I collaborate with talented professionals to develop cutting-edge mobile applications using React Native technology. I aim to continually learn, grow, and make meaningful contributions to Workpay's mission of simplifying HR for businesses everywhere every day.",
+            "buttonText": "Sneak Peek",
+            "buttonLink": "https://myworkpay.com/"
+          },
+          {
+            "name": "Building with React Native",
+            "image": "/assets/images/nihabari.svg",
+            "title": "NiHabari Africa News",
+            "description": "NiHabari News is a feature-rich news app crafted with React Native and enhanced with Tailwind CSS. I built the app to provide a seamless news browsing experience with its responsive design and user-friendly navigation, keeping the users informed and engaged. I optimized performance and intuitive interface, to make \"NiHabari News\" the go-to source for the latest news updates.",
+            "buttonText": "Sneak Peek",
+            "buttonLink": "https://nihabarinews.com/"
+          },
+          {
+            "name": "Frontend Web Role",
             "image": "/assets/images/kamident.png",
             "title": "Kamident Dental Clinic",
             "description": "As a passionate web developer, I built a professional website for Kamident Dental Clinic using React, Tailwind CSS, and Firebase. I also provided responsive design, user-friendly navigation, contact form, and optimized the website for search engines. The reach to clients online has grown exponentially-we are seeing more enggement by the day",
@@ -12,7 +27,7 @@
           {
             "name": "FullStack Role",
             "image": "/assets/images/job.svg",
-            "title": "Frontend Engineer",
+            "title": "Software Engineer",
             "description": "My role at Drift Consult with Carmax Motokaa Ltd. involves understanding the project requirements, setting up the backend environment, and integrating it with the frontend. I work on improving security, enhancing user experience, and resolving any bugs or issues through comprehensive testing. As a fast learner, I adapt quickly and strive to deliver a high-quality product.",
             "buttonText": "Sneak Peek",
             "buttonLink": "https://motokaa.shop"
