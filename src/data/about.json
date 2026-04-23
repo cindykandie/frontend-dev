@@ -1,10 +1,18 @@
 {
     "sections": [
           {
-            "name": "Currently: Mobile Engineer",
-            "image": "/assets/images/workpay.svg",
+            "name": "Currently: Mobile Software Engineer",
+            "image": "/assets/images/glp.png",
+            "title": "Global Link Plus Worldwide LLC",
+            "description": "As a Mobile Software Engineer at Global Link Plus Worldwide LLC (Remote — Utah, USA), I architect and implement robust React Native mobile applications, crafting intuitive and high-performance user interfaces. I collaborate with cross-functional teams to design, develop, and deploy scalable solutions, integrate complex features across multiple devices, conduct code reviews, and optimize application performance.",
+            "buttonText": "Sneak Peek",
+            "buttonLink": "https://globallinkplus.com/"
+          },
+          {
+            "name": "Mobile Engineer",
+            "image": "/assets/images/workpay.png",
             "title": "WorkPay",
-            "description": "As a React Native Mobile Intern at Workpay, I collaborate with talented professionals to develop cutting-edge mobile applications using React Native technology. I collaborate with talented professionals to develop cutting-edge mobile applications using React Native technology. I aim to continually learn, grow, and make meaningful contributions to Workpay's mission of simplifying HR for businesses everywhere every day.",
+            "description": "As a React Native Mobile Developer at Workpay, I collaborated with talented professionals to develop cutting-edge mobile applications using React Native technology. I aimed to continually learn, grow, and make meaningful contributions to Workpay's mission of simplifying HR for businesses everywhere every day.",
             "buttonText": "Sneak Peek",
             "buttonLink": "https://myworkpay.com/"
           },

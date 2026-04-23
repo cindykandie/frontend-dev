@@ -21,7 +21,7 @@ export default function About() {
                   <h2 className="text-xl font-bold mb-2">{section.title}</h2>
                   <p className="text-gray-700 text-base">{section.description}</p>
                   <div className="btn-container" style={{ display: 'flex', justifyContent: 'center' }}>
-                  <a href={section.buttonLink}><button className="mt-5"> {section.buttonText}</button></a> 
+                  <a href={section.buttonLink} target="_blank" rel="noopener noreferrer"><button className="mt-5"> {section.buttonText}</button></a>
                   </div>
                 </div>
               </div>
