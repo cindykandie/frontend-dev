@@ -13,23 +13,24 @@ export default function MainPage() {
               Frontend Engineer building fast, beautiful web + mobile experiences.
             </h1>
             <p className="hero-subtext">
-              I specialize in React, Next.js, React Native, and design-led UI systems.
+              Specializing in <span>React</span>, <span>Next.js</span>, <span>React Native</span>, and
+              design-led <span>UI systems</span>.
             </p>
             <div className="hero-cta">
               <Link className="btn-primary" href="/projects">
                 View Projects
               </Link>
-              <a className="btn-secondary" href="/assets/CindyKandieCV.pdf" download>
-                Download Resume
+              <a className="btn-secondary" href="https://docs.google.com/document/d/1JAYvych7aojzsTvs9J3PPhOnjB6xoUAlvh0py-zjNFE/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+                View Resume
               </a>
-              <Link className="btn-secondary" href="#contact">
+              {/* <Link className="btn-secondary" href="#contact">
                 Contact Me
-              </Link>
+              </Link> */}
             </div>
           </div>
           <div className="hero-logo" aria-hidden="true">
-            <LetterC />
-            <LetterK />
+            {/* <LetterC />
+            <LetterK /> */}
           </div>
         </main>
       </Layout>
