@@ -1,103 +1,96 @@
 {
-    "sections": [
-          {
-            "name": "Currently: Mobile Software Engineer",
-            "image": "/assets/images/glp.png",
-            "title": "Global Link Plus Worldwide LLC",
-            "description": "As a Mobile Software Engineer at Global Link Plus Worldwide LLC (Remote — Utah, USA), I architect and implement robust React Native mobile applications, crafting intuitive and high-performance user interfaces. I collaborate with cross-functional teams to design, develop, and deploy scalable solutions, integrate complex features across multiple devices, conduct code reviews, and optimize application performance.",
-            "buttonText": "Sneak Peek",
-            "buttonLink": "https://globallinkplus.com/"
-          },
-          {
-            "name": "Mobile Engineer",
-            "image": "/assets/images/workpay.png",
-            "title": "WorkPay",
-            "description": "As a React Native Mobile Developer at Workpay, I collaborated with talented professionals to develop cutting-edge mobile applications using React Native technology. I aimed to continually learn, grow, and make meaningful contributions to Workpay's mission of simplifying HR for businesses everywhere every day.",
-            "buttonText": "Sneak Peek",
-            "buttonLink": "https://myworkpay.com/"
-          },
-          {
-            "name": "Building with React Native",
-            "image": "/assets/images/nihabari.svg",
-            "title": "NiHabari Africa News",
-            "description": "NiHabari News is a feature-rich news app crafted with React Native and enhanced with Tailwind CSS. I built the app to provide a seamless news browsing experience with its responsive design and user-friendly navigation, keeping the users informed and engaged. I optimized performance and intuitive interface, to make \"NiHabari News\" the go-to source for the latest news updates.",
-            "buttonText": "Sneak Peek",
-            "buttonLink": "https://nihabarinews.com/"
-          },
-          {
-            "name": "Frontend Web Role",
-            "image": "/assets/images/kamident.png",
-            "title": "Kamident Dental Clinic",
-            "description": "As a passionate web developer, I built a professional website for Kamident Dental Clinic using React, Tailwind CSS, and Firebase. I also provided responsive design, user-friendly navigation, contact form, and optimized the website for search engines. The reach to clients online has grown exponentially-we are seeing more enggement by the day",
-            "buttonText": "Sneak Peek",
-            "buttonLink": "https://kamident.vercel.app/"
-          },
-          {
-            "name": "FullStack Role",
-            "image": "/assets/images/job.svg",
-            "title": "Software Engineer",
-            "description": "My role at Drift Consult with Carmax Motokaa Ltd. involves understanding the project requirements, setting up the backend environment, and integrating it with the frontend. I work on improving security, enhancing user experience, and resolving any bugs or issues through comprehensive testing. As a fast learner, I adapt quickly and strive to deliver a high-quality product.",
-            "buttonText": "Sneak Peek",
-            "buttonLink": "https://motokaa.shop"
-          },
-          {"name": "Internship",
-            "image": "/assets/images/work.webp",
-            "title": "Software Development Intern",
-            "description": "As a frontend development intern, I work on various projects such as creating and designing web pages, implementing new features, and optimizing existing ones. I collaborate with the team to ensure timely delivery of projects and maintain the codebase. I continually learn and implement new technologies and frameworks to improve my skills.",
-            "buttonText": "Sneak Peek",
-            "buttonLink": "https://github.com/cindykandie"
-          },
-          {
-            "name": "Mentor",
-            "image": "/assets/images/mentor.svg",
-            "title": "Frontend Development Mentorship",
-            "description": "As a mentor in web development, particularly frontend, I provide guidance and support to beginners and students, helping them navigate the intricacies of web technologies. I offer personalized advice, share resources, and encourage hands-on learning, fostering their growth and confidence in becoming skilled frontend developers.",
-            "buttonText": "Sneak Peek",
-            "buttonLink": "https://cindykandie.hashnode.dev/first-time-mentor-in-frontend-development-journal"
-            },
-            
-                {
-            "name": "Microverse BootCamp",
-            "image": "/assets/images/bootcamp.svg",
-            "title": "FullStack Developer Trainee",
-            "description": "At Microverse bootcamp, I learned and built various projects. I gained proficiency in web development technologies such as HTML, CSS, JavaScript, React, Ruby on Rails, and Git. I also developed skills in pair programming, remote collaboration, and agile development. I built several projects, including a JavaScript calculator, a social media website with Ruby on Rails, and a portfolio website with React.",
-            "buttonText": "Sneak Peek",
-            "buttonLink": "https://cindykandie.github.io/financial-conference/"
-            },
-            
-                    {
-                "name": "Bachelor's Degree",
-                "image": "/assets/images/mut.svg",
-                "title": "Software Engineering Degree",
-                "description": "In my Bachelor's degree, I gained expertise in software engineering and learned to develop robust and scalable software applications. During my time as a Google Developer Student Club lead and mentor, I honed my leadership skills and guided a team of developers in creating impactful projects. These experiences equipped me with the knowledge and skills needed to excel as a software developer.",
-                "buttonText": "Sneak Peek",
-                "buttonLink": "https://www.mut.ac.ke/"
-                },
-                {
-                    "name": "Tech Community",
-                    "image": "/assets/images/react254.png",
-                    "title": "React Developer Community Kenya",
-                    "description": "As a participant in the Kenyan tech community, I have been involved with React Devs KE, DroidconKE, GDG Nairobi, and WTM Ambassador, benefiting from mentorship and contributing to events. Through these activities, I have built my skills, expanded my network, and contributed to the growth of the tech community in Kenya.",
-                    "buttonText": "Sneak Peek",
-                    "buttonLink": "https://www.rendercon.org/"
-                  },
-                        {
-                    "name": "Passion Project",
-                    "image": "/assets/images/consalt.png",
-                    "title": "ConSalt Platform",
-                    "description": "ConSalt is a platform that connects companies/ individuals with pre-vetted industry consultants. The platform features a directory of experienced consultants that companies/clients can search and filter through to find the right fit for their needs. ConSalt also offers a community section where professionals can connect with each other.",
-                    "buttonText": "Sneak Peek",
-                    "buttonLink": "https://cindykandie.hashnode.dev/building-a-full-web-app-consultation-platform"
-                    },
-                    {
-                      "name": "Up-and-Coming CEO",
-                      "image": "/assets/images/ceo.svg",
-                      "title": "IntelliXar Tech Solutions",
-                      "description": "As the founder of IntelliXar, my passion for creating innovative tech solutions drives me to build and deliver cutting-edge products. With a focus on excellence and user-centric design, I collaborate with clients to develop tailored solutions that meet their unique needs, while pushing the boundaries of technology to empower businesses and individuals alike.",
-                      "buttonText": "Sneak Peek",
-                      "buttonLink": "https://intellixar.vercel.app"
-                      }
-    ]
-  }
-
-  
+  "sections": [
+    {
+      "category": "Career",
+      "items": [
+        {
+          "name": "Currently: Mobile Software Developer",
+          "image": "/assets/images/glp.png",
+          "title": "Global Link Plus Worldwide LLC",
+          "description": "As a Mobile Software Engineer at Global Link Plus Worldwide LLC (Remote — Utah, USA), I architect and implement robust React Native mobile applications, crafting intuitive and high-performance user interfaces. I collaborate with cross-functional teams to design, develop, and deploy scalable solutions, integrate complex features across multiple devices, conduct code reviews, and optimize application performance.",
+          "buttonText": "Sneak Peek",
+          "buttonLink": "https://globallinkplus.com/"
+        },
+        {
+          "name": "Mobile Engineer",
+          "image": "/assets/images/workpay.png",
+          "title": "WorkPay",
+          "description": "As a React Native Mobile Junior Apprentice at Workpay, I collaborated with talented professionals to develop cutting-edge mobile applications using React Native technology. I aimed to continually learn, grow, and make meaningful contributions to Workpay's mission of simplifying HR for businesses everywhere every day.",
+          "buttonText": "Sneak Peek",
+          "buttonLink": "https://myworkpay.com/"
+        },
+        {
+          "name": "Frontend Web Role",
+          "image": "/assets/images/kamident.png",
+          "title": "Kamident Dental Clinic",
+          "description": "As a passionate web developer, I built a professional website for Kamident Dental Clinic using React, Tailwind CSS, and Firebase. I also provided responsive design, user-friendly navigation, contact form, and optimized the website for search engines. The reach to clients online has grown exponentially-we are seeing more engagement by the day.",
+          "buttonText": "Sneak Peek",
+          "buttonLink": "https://kamident.vercel.app/"
+        }
+      ]
+    },
+    {
+      "category": "Community & Mentorship",
+      "items": [
+        {
+          "name": "Tech Community",
+          "image": "/assets/images/react254.png",
+          "title": "React Developer Community Kenya",
+          "description": "As a participant in the Kenyan tech community, I have been involved with React Devs KE, DroidconKE, GDG Nairobi, and WTM Ambassador, benefiting from mentorship and contributing to events. Through these activities, I have built my skills, expanded my network, and contributed to the growth of the tech community in Kenya.",
+          "buttonText": "Sneak Peek",
+          "buttonLink": "https://www.rendercon.org/"
+        },
+        {
+          "name": "Mentor",
+          "image": "/assets/images/mentor.svg",
+          "title": "Frontend Development Mentorship",
+          "description": "As a mentor in web development, particularly frontend, I provide guidance and support to beginners and students, helping them navigate the intricacies of web technologies. I offer personalized advice, share resources, and encourage hands-on learning, fostering their growth and confidence in becoming skilled frontend developers.",
+          "buttonText": "Sneak Peek",
+          "buttonLink": "https://cindykandie.hashnode.dev/first-time-mentor-in-frontend-development-journal"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "items": [
+        {
+          "name": "Bachelor's Degree",
+          "image": "/assets/images/mut.svg",
+          "title": "Software Engineering Degree",
+          "description": "In my Bachelor's degree, I gained expertise in software engineering and learned to develop robust and scalable software applications. During my time as a Google Developer Student Club lead and mentor, I honed my leadership skills and guided a team of developers in creating impactful projects. These experiences equipped me with the knowledge and skills needed to excel as a software developer.",
+          "buttonText": "Sneak Peek",
+          "buttonLink": "https://www.mut.ac.ke/"
+        },
+        {
+          "name": "Microverse BootCamp",
+          "image": "/assets/images/bootcamp.svg",
+          "title": "FullStack Developer Trainee",
+          "description": "At Microverse bootcamp, I learned and built various projects. I gained proficiency in web development technologies such as HTML, CSS, JavaScript, React, Ruby on Rails, and Git. I also developed skills in pair programming, remote collaboration, and agile development. I built several projects, including a JavaScript calculator, a social media website with Ruby on Rails, and a portfolio website with React.",
+          "buttonText": "Sneak Peek",
+          "buttonLink": "https://cindykandie.github.io/financial-conference/"
+        }
+      ]
+    },
+    {
+      "category": "Product Leadership",
+      "items": [
+        {
+          "name": "Software Developer & Product Creator",
+          "image": "/assets/images/ceo.svg",
+          "title": "IntelliXar Tech Solutions",
+          "description": "As the founder of IntelliXar, my passion for creating innovative tech solutions drives me to build and deliver cutting-edge products. With a focus on excellence and user-centric design, I collaborate with clients to develop tailored solutions that meet their unique needs, while pushing the boundaries of technology to empower businesses and individuals alike.",
+          "buttonText": "Sneak Peek",
+          "buttonLink": "https://intellixar.vercel.app"
+        },
+        {
+          "name": "Passion Project",
+          "image": "/assets/images/consalt.png",
+          "title": "ConSalt Platform",
+          "description": "ConSalt is a platform that connects companies and individuals with pre-vetted industry consultants. The platform features a directory of experienced consultants that clients can search and filter through to find the right fit for their needs. ConSalt also offers a community section where professionals can connect with each other.",
+          "buttonText": "Sneak Peek",
+          "buttonLink": "https://cindykandie.hashnode.dev/building-a-full-web-app-consultation-platform"
+        }
+      ]
+    }
+  ]
+}
